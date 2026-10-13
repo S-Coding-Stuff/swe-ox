@@ -2,9 +2,8 @@
 
 Some code for Software Engineering module. Covers:
 
-- Procedural Programming
-- OOP
-- Git and Version Control
+- Object Oriented Programming
+- Git and Version Control - This is covered elsewhere, however basics are included in `\notebooks\git.ipynb`
 - Software Testing
 - Continuous Integration (CI/CD)
 - Containerisation and Docker
